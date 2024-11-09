@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://palcae.com/</loc>
+    <lastmod>2024-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About Us Page -->
+  <url>
+    <loc>https://palcae.com/about/</loc>
+    <lastmod>2024-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Services Overview Page -->
+  <url>
+    <loc>https://palcae.com/services/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Specific Service Pages -->
+  
+  <!-- Hospital Caretaker Service -->
+  <url>
+    <loc>https://palcae.com/services/hospital-caretaker/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Personal Driver Service -->
+  <url>
+    <loc>https://palcae.com/services/personal-driver/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Driver with Car Service -->
+  <url>
+    <loc>https://palcae.com/services/driver-with-car/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Leisure Holidays Service -->
+  <url>
+    <loc>https://palcae.com/services/leisure-holidays/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://palcae.com/contact/</loc>
+    <lastmod>2024-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog or News Section (if applicable) -->
+  <!-- Example Blog Post -->
+  <url>
+    <loc>https://palcae.com/blog/understanding-hospital-caretaker-services/</loc>
+    <lastmod>2024-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Add more URLs as your website grows -->
+
+</urlset>

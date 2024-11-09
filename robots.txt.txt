@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://palcae.com/sitemap.xml
